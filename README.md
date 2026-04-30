@@ -35,8 +35,23 @@ Feel free to connect!
 
 *Outcome:* Turned test traces into defensible K-values with clear acceptance criteria and engineering implications.
 
+<p align="center">
+  <img src="./images/Mode 1 Crack tip sigma_yy field.png" width="500"/>
+  <br>
+  <em>Mode 1 Crack tip sigma_yy field</em>
+</p>
 
- 
+<p align="center">
+  <img src="./images/K contours vs a_W and load with ASTM E399 valid region.png" width="500"/>
+  <br>
+  <em>K contours vs a_W and load with ASTM E399 valid region</em>
+</p>
+
+<p align="center">
+  <img src="./images/2% secant methos on C(T) specimen.png" width="500"/>
+  <br>
+  <em>2% secant methos on C(T) specimen</em>
+</p>
 
 **ASME Section VIII, Division 2 — Design‑by‑Analysis (DBA) via MATLAB**  
  - Modeled a pressurized steel cylinder with Lame’s thick‑wall equations and performed Annex 5‑A stress linearization to separate membrane (P_m) and bending (P_b). 
@@ -46,7 +61,18 @@ Feel free to connect!
 
 *Outcome:* Translated code philosophy into computation, visualizing stress distributions and margins of safety.
 
+<p align="center">
+  <img src="./images/Thick wall solution vs DBR hoop stress.png" width="500"/>
+  <br>
+  <em>Thick wall solution vs DBR hoop stress</em>
+</p>
 
+
+<p align="center">
+  <img src="./images/Stress linearization(Hoop).png" width="500"/>
+  <br>
+  <em>Stress linearization(Hoop)</em>
+</p>
 
 
 **Axisymmetric SHPB Single‑Specimen Study — PDE (Navier–Cauchy), ANSYS, and PINN**  
@@ -62,9 +88,18 @@ Feel free to connect!
 *Tools:* ANSYS Explicit Dynamics (boundary histories), TensorFlow PINN, MATLAB (pre/post)
 
 *Outcome:* A PDE‑faithful field reconstruction across (r, x, t) that agrees with ANSYS BCs and reveals interior dynamics.
-  
+ <p align="center">
+  <img src="./images/u_x vs t.png" width="500"/>
+  <br>
+  <em>u_x vs t</em>
+</p>
+<p align="center">
+  <img src="./images/u_r vs t.png" width="500"/>
+  <br>
+  <em>u_r vs t</em>
+</p>
+ 
 
----
 
 ## Projects
 
@@ -72,7 +107,12 @@ Feel free to connect!
 - Engaged in various personal projects using SolidWorks to enhance 3D modeling skills.
 - Focused on learning and experimenting with advanced CAD techniques and design principles.
 - Further developed proficiency in SolidWorks through hands-on experience.
-
+</p>
+<p align="center">
+  <img src="./images/Perfume.png" width="500"/>
+  <br>
+  <em>u_r vs t</em>
+</p>
 
 ---
 
