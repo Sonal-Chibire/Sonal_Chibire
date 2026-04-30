@@ -109,9 +109,9 @@ Feel free to connect!
 - Further developed proficiency in SolidWorks through hands-on experience.
 </p>
 <p align="center">
-  <img src="./images/Perfume.png" width="500"/>
+  <img src="./images/Perfume.JPG" width="500"/>
   <br>
-  <em>u_r vs t</em>
+  
 </p>
 
 ---
